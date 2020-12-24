@@ -1,1 +1,1 @@
-This is a custom NER + RELATION Visualizer inspired by https://explosion.ai/demos/displacy 
+This is a custom NER + RELATION Visualizer inspired from https://explosion.ai/demos/displacy 
